@@ -1,0 +1,583 @@
+[{
+    "eventTitle": "Kode Git Fiesta (KGF)",
+    "eventId": "KodeGitFiesta",
+    "eventTagline": "Theeya code pananu Kumaru!",
+    "mode":"Offline",
+    "venue":"Beta Hall, Classroom",
+    "EventDate":"29th September 2022",
+    "ReportingTime":"9:00 AM",
+    "EventTime":"9:30 AM - 4:00 PM",
+    "eventDescription": "If you are a tech whiz this is the right place for you to show your skills. Buckleup to take part in this mindsport. Don’t let the bugs bite you, Hunt the code and showcase your bugging power. Ace it!!",
+    "Winners":"3",
+    "prize": "1st Prize - Rs. 2000, 2nd Prize - Rs.1000, 3rd Prize - Rs.500",
+    "eventRounds": [{
+            "roundName": "ROUND 1 - MCQ",
+            "roundRules": [
+                "Round 1 will consist of 20 MCQ questions",
+                "Each question will have 4 options from which the team has to pick the correct option.",
+                "Duration is 30 mins."
+            ]
+        },
+    
+        {
+            "roundName": "Round 2 - Bugging",
+            "roundRules": [
+                "There will be 10 pseudocode questions to bug",
+                "The participants will be given an error and they have to modify the code in such a way that the code throws the specified error.",
+                "No compiling and running the code is allowed.",
+                "Duration is 30 mins."
+            ]
+        },
+        {
+            "roundName": "Round 3 - Coding",
+            "roundRules": [
+                "Allowed Languages : Any preferred programming language.",
+                "Requirements : Laptop with necessary IDE installed or can also use online compiler.",
+                "The questions will involve 3 hands-on coding questions and the winner will be selected based on the number of questions solved along with the efficiency of the code and the time taken to solve.",
+                "Participants should not be involved in searching for solutions through the internet, else they will be disqualified.",
+                "Duration is 1 hour."
+            ]
+        },
+        {
+            "roundName": "Instructions",
+            "roundRules": [
+                "This is an offline event.",
+                "Team should consist of 1 - 2 members.",
+                "Registrations will be considered on a First Come First Serve basis.",
+                "No registration fee.",
+                "Only the team lead should register on behalf of the team.",
+                "The event consists of three rounds and each round will be a survivor round.",
+                "The first two rounds will be conducted using pen and paper and the final round will involve coding on a system.",
+                "No form of malpractice or cheating will be tolerated. ( using the internet, etc.)",
+                "Any rule violation will lead to the disqualification of the team."
+            ]
+        }
+    ],
+    "coordinatorDetails": [{
+            "eventCoordinatorName": "Deepthi Sherly J",
+            "eventCoordinatorNumber": "+91 7010891749"
+        },
+        {
+            "eventCoordinatorName": "Karthikeyan P",
+            "eventCoordinatorNumber": "+91 6383379804"
+        }
+    ],
+
+    "eventImage": "/event-img/buggy-01.png",
+    "eventPoster":"/event-poster/KGF - SYNSARA.png",
+    "eventType": "technical",
+    "eventUrl": "",
+    "eventCloseDate": "26-09-2021",
+    "eventClosed": false
+},
+
+{
+    "eventTitle": "Unknown.fig",
+    "eventId": "UnknownFig",
+    "eventTagline": "Indha Artist enna solla vararu tereyuma?",
+    "mode":"Online",
+    "venue":false,
+    "EventDate":"29th September 2022",
+    "ReportingTime":"9:30 AM",
+    "EventTime":"10:00 AM - 4:00 PM",
+    "eventDescription": "Unleash the inner artist and designer in you with 'Unknown.fig', a Web design contest that will challenge your aesthetic sense and time management skills, with a dash of fun!",
+    "Winners":"3",
+    "prize": "1st Prize - Rs. 2000, 2nd Prize - Rs.1000, 3rd Prize - Rs.500",
+    "eventRounds": [{
+            "roundName": "Instructions",
+            "roundRules": [
+                "Allowed tools : Figma, Adobe XD, Photoshop, Canva.",
+                "This is an online event.",
+                "Team should consist of 2 members.",
+                "No registration fee.  ",
+                "Only the team lead should register on behalf of the team.",
+                "This is a website design contest, the theme will only be announced on the day of the event.",
+                "The event will be monitored through Discord, participants should join the allocated Discord server prior to the event.",
+                "Screen sharing should not be stopped at any point.",
+                "Participants can take their lunch break whenever they want. Even during breaks, streaming should not be stopped.",
+                "If your design does not adhere to the given theme, you will be disqualified.",
+                "No copyright issues should be detected. ",
+                "Changing themes halfway through the event will not be permitted. ",
+                "Top 3 Teams will be awarded with Cash prizes.",
+                "E-certificates will be provided for all participants."
+
+            ]
+        }
+    ],
+    "coordinatorDetails": [{
+            "eventCoordinatorName": "",
+            "eventCoordinatorNumber": "+91 "
+        },
+        {
+            "eventCoordinatorName": "",
+            "eventCoordinatorNumber": "+91 "
+        }
+    ],
+    "eventImage": "/event-img/uiux1-01.png",
+    "eventPoster": "/event-poster/UNKNOWN.fig - SYNSARA.png",
+    "eventType": "technical",
+    "eventUrl": "",
+    "eventCloseDate": "26-09-2021",
+    "eventClosed": false
+},
+
+{
+    "eventTitle": "Playsment",
+    "eventId": "Playsment",
+    "eventTagline": "Building strong, basement weak",
+    "mode":"Online",
+    "venue":false,
+    "EventDate":"28th September 2022",
+    "ReportingTime":"9:30 AM",
+    "EventTime":"10:00 AM - 4:00 PM",
+    "eventDescription": "Hey folks, are you all wondering on how to get a good job, and start a venture towards an amazing career? Then you have come to the right place! Take advantage of this unique opportunity to increase your expertise. The major idea of this event is to give you all some tactics and experience on how to face the interview with ample confidence!",
+    "Winners":"3",
+    "prize": "1st Prize - Rs. 2000, 2nd Prize - Rs.1000, 3rd Prize - Rs.500",    "eventRounds": [
+        {
+            "roundName": "Round 1",
+            "roundRules": [
+                "Basic aptitude which includes quantitative skills ,logical reasoning skills, verbal skills and technical MCQs which also includes code snippets."
+            ]
+        },
+        {
+            "roundName": "Round 2",
+            "roundRules": [
+                "In this round, you will participate in a face-to-face interview. (both technical and HR)"
+
+            ]
+        },
+        {
+            "roundName": "Add-on",
+            "roundRules": [
+                "A special feedback session will be given for Round 2 candidates which will provide better insights to improve yourself to reach greater heights."
+
+            ]
+        }
+    ],
+    "coordinatorDetails": [{
+            "eventCoordinatorName": "Nivetha Thangaraj",
+            "eventCoordinatorNumber": "+91 7305228393"
+        },
+        {
+            "eventCoordinatorName": "Brinda C",
+            "eventCoordinatorNumber": "+91 8825494332"
+        }
+    ],
+    "eventImage": "/event-img/interview2-01.png",
+    "eventPoster":"/event-poster/PLAYSMENT - SYNSARA.png",
+    "eventType": "technical",
+    "eventUrl": "",
+    "eventCloseDate": "26-09-2021",
+    "eventClosed": false
+},
+
+{
+    "eventTitle": "Thegidi",
+    "eventId": "Thegidi",
+    "eventTagline": "Expect the unexpected",
+    "mode":"Online",
+    "venue":false,
+    "EventDate":"28th September 2022",
+    "ReportingTime":"9:30 AM",
+    "EventTime":"10:00 AM - 4:00 PM",
+    "eventDescription": "Thegidi -  Expect the unexpected, is a surprise event. Dive through the rounds to find the surprise!",
+    "Winners":"3",
+    "prize": "1st Prize - Rs. 2000, 2nd Prize - Rs.1000, 3rd Prize - Rs.500",    "eventRounds": [{
+        "roundName": "Rounds",
+        "roundRules": [
+            "The event consists of four rounds, where each round is a …………… surprise!"
+        ]
+    },
+    {
+        "roundName": "Instructions",
+        "roundRules": [
+            "This is an offline event.",
+            "Team should consist of 3 members.",
+            "Registrations will be considered on a First Come First Serve basis.",
+            "No registration fee.",
+            "Only the team lead should register on behalf of the team.",
+            "Details of each round will be revealed on the spot.",
+            "The event revolves around a crime scene.",
+            "The solutions found in each round will be connected and used till the final round.",
+            "Lunch will be provided for all participants.",
+            "Top 3 Teams will be awarded with Cash prizes.",
+            "E-certificates will be provided to all participants."
+
+        ]
+    }
+    ],
+    "coordinatorDetails": [{
+            "eventCoordinatorName": "Jayashree S",
+            "eventCoordinatorNumber": "+91 7395993505"
+        },
+        {
+            "eventCoordinatorName": "Iswarya G",
+            "eventCoordinatorNumber": "+91 8428984718 "
+        }
+    ],
+
+    "eventImage": "/event-img/suprisenew-02.png",
+    "eventPoster": "/event-poster/THEGIDI - SYNSARA.png",
+    "eventType": "technical",
+    "eventUrl": "https://forms.gle/6K8sBnJTsvw8rarm6",
+    "eventCloseDate": "26-09-2021",
+    "eventClosed": false
+},
+
+{
+    "eventTitle": "Ratatouille",
+    "eventId": "Ratatouille",
+    "eventTagline": "Paale Inga therala paayasam kekudha?",
+    "mode": "offline",
+    "venue": "false",
+    "EvenDate": "",
+    "ReportingTime": "",
+    "EventTime": "",
+    "eventDescription": "Hola cuisiniers! Get ready to reveal your cooking skills to the world by participating in 🔥 RATATOUILLE🔥, a non-tech cooking without fire event. Prevail the tasks and hindrances tactically to be the lucky chef to win exciting prizes!!",
+    "Winners": "3",
+    "eventRounds": [{
+        "roundName": "Rules",
+        "roundRules": [
+            " This is an offline event.",
+            "Team should consist of 2 members.",
+            "Registrations will be considered on a First Come First Serve basis.",
+            "No registration fee.",
+            "Only the team lead should register on behalf of the team.",
+            "Participants are required to bring their ingredients and required utensils.",
+            "No ingredients or any equipment (including refrigerator)  will be provided.",
+            "College ID is a must.",
+            "No pre-cooked food is allowed.",
+            "Each team will be provided with 30 mins duration.",
+            "Lunch will be provided for all participants.",
+            "Top 3 Teams will be awarded with Cash prizes.",
+            "E-certificates will be provided for all participants."
+
+        ]
+    }],
+    "coordinatorDetails": [{
+            "eventCoordinatorName": "Kavya Keerthana M",
+            "eventCoordinatorNumber": "+91 9710808800"
+        },
+        {
+            "eventCoordinatorName": "Srija G ",
+            "eventCoordinatorNumber": "+91 9790727464 "
+        }
+    ],
+    "eventImage": "/event-img/cook.png",
+    "eventPoster":"/event-poster/RATATOUILLE - SYNSARA.png",
+    "eventType": "non-technical",
+    "eventUrl": "https://forms.gle/MJs1spdwrGD1BwiX6",
+    "eventCloseDate": "26-09-2022",
+    "eventClosed": false
+},
+
+{
+    "eventTitle": "Let’s Nacho",
+    "eventId": "LetsNacho",
+    "eventTagline": "Jolly o Jymkhana",
+    "mode": "offline",
+    "venue": "",
+    "EvenDate": "",
+    "ReportingTime": "",
+    "EventTime": "",
+    "eventDescription": "Here is your chance to showcase your dance skills on a professional platform! We’ll play the music, just get into the groove and dance to the fullest with your soul! Come on, you have the stage to yourself! Let's nacho!!!",
+    "Winners": "3",
+    "eventRounds": [{
+            "roundName": "Rules",
+            "roundRules": [
+                "This is an offline event.",
+                "It is a solo event.",
+                "Registrations will be considered on a First Come First Serve basis.",
+                "No registration fee.",
+                "Each participant will be given THREE MINUTES to perform.",
+                "Random songs will be played continuously for all the rounds.",
+                "Each and every round is an elimination round.",
+                "The results of each round will be decided by the jury.",
+                "No prior information about the music will be given. "
+
+
+            ]
+        },
+        {
+            "roundName": "Round 1",
+            "roundRules": [
+                "I234, Get on the Dance floor: Individual performance of all the participants."
+            ]
+        },
+        {
+            "roundName": "Round 2",
+            "roundRules": [
+                " Potu thaku: Face-off between selected participants."
+            ]
+        },
+        {
+            "roundName": "Round 3",
+            "roundRules": [
+                "Pathala Pathala: The shortlisted participants from the previous round will have to do an individual performance."
+
+            ]
+        }
+    ],
+    "coordinatorDetails": [{
+            "eventCoordinatorName": "A Syed Abdul Azeem ",
+            "eventCoordinatorNumber": "+91 9843888072"
+        },
+        {
+            "eventCoordinatorName": "B Manicka Raghavi",
+            "eventCoordinatorNumber": "+91 8903435959"
+        }
+    ],
+    "eventImage": "/event-img/dance.png",
+    "eventPoster":"/event-poster/LET'S NACHO - SYNSARA.png",
+    "eventType": "non-technical",
+    "eventUrl": "https://forms.gle/cdkqwpfVvXQNpZVr5",
+    "eventCloseDate": "26-09-2022",
+    "eventClosed": false
+},
+
+{
+    "eventTitle": "The Legend",
+    "eventId": "TheLegend",
+    "eventTagline": "Bestu Bestu!!",
+    "mode": "Offline",
+    "venue": "SSR Hall",
+    "EventDate": "29th September 2022",
+    "ReportingTime": "9.00 AM",
+    "EventTime": "9.30 AM - 4.00 PM",
+    "eventDescription": "We interrupt this program for a special announcement…Come on guys, let's have a party!!” Bored of browsing through channels 24/7?? How about we enact it? Showcase the world of commercialism LIVE! We’ll tell you the product, sell it. Show us the hidden salesman in you!!",
+    "winners": "3",
+    "eventRounds": [{
+            "roundName": "General Instructions",
+            "roundRules": [
+                "This is an offline event.",
+                "Team should consist of 1 - 2 members.",
+                "Registrations will be considered on a First Come First Serve basis.",
+                "No registration fee.",
+                "Only the team lead should register on behalf of the team.",
+                "The first round will be Adzap followers by Channel Surfing in round 2.",
+                "No obscene language will be tolerated.",
+                "Teams will be judged based on their creativity, wit, clarity, engaging factor, and coordination.",
+                "First round results will be announced within 1 hour after first round completion.",
+                "The top five teams will be selected for the final round.",
+                "The jury 's decision will be considered final.",
+                "Lunch will be provided for all participants.",
+                "Top 3 Teams will be awarded with cash prizes.",
+                "E - certificates will be provided to all participants."
+            ]
+        }, {
+            "roundName": "Round 1: Adzap - A product for which a commercial must be enacted will be given on-spot!",
+            "roundRules": [
+                "The theme will be given 10 minutes prior to the start.",
+                "You will be given a stipulated time for preparation.",
+                "Three mins will be given for the presentation.",
+                "No obscene language should be used."
+            ]
+        },
+        {
+            "roundName": "Round 2: Channel surfing - Participants will have to enact what will be playing on various channels on TV!",
+            "roundRules": [
+                "A list of channels will be given prior to the final round.",
+                "You will be given a stipulated time for preparation.",
+                "Total performance time will be 5 mins per team.",
+                "Participants have to enact the channel mentioned by the judge and channel swaps will be spontaneous, as per by the judge’s requests."
+            ]
+        }
+    ],
+    "coordinatorDetails": [{
+            "eventCoordinatorName": "V Vanni Venkatesh",
+            "eventCoordinatorNumber": "+91 9150248453"
+        },
+        {
+            "eventCoordinatorName": "M B Pooja Kumari",
+            "eventCoordinatorNumber": "+91 8220165782"
+        }
+    ],
+    "prize": "1st Prize - Rs. 2000, 2nd Prize - Rs.1000, 3rd Prize - Rs.500",
+    "eventImage": "/event-img/adzap.png",
+    "eventPoster":"/event-poster/THE LEGEND - SYNSARA.png",
+    "eventType": "non-technical",
+    "eventUrl": "https://forms.gle/5bs2LtP2BS9WXvDg7",
+    "eventCloseDate": "26-09-2022",
+    "eventClosed": false
+},
+
+{
+    "eventTitle": "Headshot",
+    "eventId": "headshot",
+    "eventTagline": "Ennai Nokki Payum Thota League",
+    "mode": "Online",
+    "venue": false,
+    "EventDate": "28th September 2022",
+    "ReportingTime": "9.30 AM",
+    "EventTime": "10.00 AM - 4.00 PM",
+
+    "eventDescription": " Action, fast reflexes and Tactical skills are essential to success. Are you ready for the challenge? Step onto the battlefield  with its great graphics, high-powered guns, and intense online multiplayer action. Fulfill your duty in the thrilling campaign as you shoot your way through one dire situation after another to save your team. ",
+    "winners": "1",
+    "eventRounds": [{
+            "roundName": "Pubg: Instructions: ",
+            "roundRules": [
+                "This is an online event.",
+                "Each team should have a minimum of three players, or else they will be removed from the room.",
+                "Registration is restricted to the first 40 teams (First Come First Serve basis).",
+                "Potu thaku: Face-off between selected participants.",
+                "Only the team lead should register on behalf of the team.",
+                "An ID and password will be distributed via a WhatsApp group.",
+                "Teaming up with other teams will result in the disqualification of both the teams.",
+                "Players are responsible for their own technical issues.",
+                "Players are not allowed to use any third-party applications.",
+                "Only mobile phones are allowed. No emulators.",
+                "If two teams have the same points, then they are selected on the basis of more killings.",
+                "Never share the room code with non-registered players.",
+                "If any player sits on another team's slot, that player will be removed from the room after some warning.",
+                "Each team (all four players) should send a screenshot of the results after the match or else they will be disqualified."
+            ]
+        },
+        {
+            "roundName": "Valorant: Lobby Rules: ",
+            "roundRules": [
+                "Mode: Standard",
+                "Allow Cheats: Off",
+                "Tournament Mode: On",
+                "Overtime: Win by Two: On",
+                "Server Region: Mumbai",
+                "Team Size: Five(5)",
+                "All Matches will be played on the latest patch."
+
+            ]
+        }, {
+            "roundName": "Map Pool: ",
+            "roundRules": [
+                "Bind",
+                "Haven",
+                "Split",
+                "Ascent",
+                "Icebox",
+                "Breeze"
+            ]
+        },
+        {
+            "roundName": "Valorant: Instructions: ",
+            "roundRules": [
+                "This is an online event.",
+                "Each team must have a minimum of five(5) players that are eligible to play for each match.",
+                "No registration fee.",
+                "Only the team lead should register on behalf of the team.",
+                "All members of a roster must have their Riot account in good standing.",
+                "Map will be selected by the organising team.",
+                "Number of matches will be determined at the start of the tournament based on the number of registered players.",
+                "First team to 13 round wins will go to the next round.",
+                "Every round is an elimination round.",
+                "Any instance of cheating will result in an immediate removal from the tournament.",
+                "Cheating includes use of third party programs, hacking, ghosting, abusive chats / voice."
+            ]
+        }
+    ],
+    "coordinatorDetails": [{
+            "eventCoordinatorName": "Lohith S ",
+            "eventCoordinatorNumber": " +91 9360327347"
+        },
+        {
+            "eventCoordinatorName": "Sridhar M",
+            "eventCoordinatorNumber": "+91 6374779719"
+        },
+        {
+            "eventCoordinatorName": "Kamalesh Kumar",
+            "eventCoordinatorNumber": "+91 8248464117 "
+        },
+        {
+            "eventCoordinatorName": "Shyam Sundhar",
+            "eventCoordinatorNumber": "+91 8754551509"
+        }
+    ],
+    "prize": "1st Prize - Rs.1100",
+    "eventImage": "/event-img/gam.png",
+    "eventPoster":"/event-poster/HEADSHOT (PUBG) -SYNSARA.png",
+    "eventType": "non-technical",
+    "eventUrl": "https://forms.gle/E9PHC3WW14PiPLbs9",
+    "eventCloseDate": "26-09-2022",
+    "eventClosed": false
+},
+{
+    "eventTitle": "Code Red",
+    "eventId": "CodeRed",
+    "eventTagline": "The eagle is comin' You better start runnin'",
+    "mode": "Offline",
+    "venue": "CC VI",
+    "EventDate": "28th September 2022 to 29th September 2022",
+    "ReportingTime": "9.00 AM",
+    "EventTime": "28th September 10.00 AM - 29th September 10.00 AM",
+    "eventDescription": "We are back again with a 24-hour OFFLINE hackathon to give you a great experience and exposure. So, gear up for the hackathon with lots of ideas, show your technical skills and be ready to get your hands dirty. ",
+    "eventRounds": [{
+            "roundName": "Instructions",
+            "roundRules": [
+                "It is a 24 hour OFFLINE Hackathon.",
+                "Team should consist of 2 - 4 members.",
+                "Registrations will be considered on a First Come First Serve basis.",
+                "No registration fee.",
+                "Only the Team Lead should register for the hackathon.",
+                "The preferred domains mustThis round, where you will participate in a face - to - face interview, will provide you with the most significant exposure.be chosen accordingly, during the registration process(via google form).",
+                "Problem Statements will be given ON - THE - SPOT based on your choice of domain.",
+                "All participants are required to bring their Laptops, Ethernet cable and College ID.",
+                "All design elements, code, hardware builds, etc.for your project must be created during the event.",
+                "For IOT related projects, the hardware requirements will be specified 1 week prior to the hackathon.The participants must bear the costs of all hardware equipment.",
+                "Food and Accommodation will be provided for all the participants.",
+                "Regarding further details about the accommodation, contact the event coordinators.",
+                "Top 3 Teams will be awarded with cash prizes.",
+                "E - certificates will be provided for all participants."
+            ]
+        },
+        {
+            "roundName": "Who can participate",
+            "roundRules": [
+                "Hackathon is open to  Engineering students from any stream who tries to incorporate modern technologies.",
+                "During registration participants are requested to insert data into registration fields and by their registration guarantee that they have inserted correct and full information.",
+                "Employees and associates of organizers, partners and sponsors cannot participate in the hackathon."
+            ]
+        },
+        {
+            "roundName": "Hackathon Rules",
+            "roundRules": [
+                "The maximum team size is 5",
+                "Separate discord server will be maintained",
+                "The proposal submission deadline is on 26th September",
+                "The hackathon is to be held on 30th September & 1st October",
+                "Juries from various reputed organizations across the world will evaluate the projects and top 3 teams will selected on the basis of technical ability, Innovative ideas and presentation.",
+                "Get yourself ready to win exciting prizes"
+            ]
+        }
+    ],
+    "coordinatorDetails": [{
+            "eventCoordinatorName": "Siddharth VS",
+            "eventCoordinatorNumber": "+91 7395910570"
+        },
+        {
+            "eventCoordinatorName": "Swetha Lakshme S",
+            "eventCoordinatorNumber": "+91 9445402826"
+        }
+    ],
+    "prize": "1st Prize - Rs. 5000, 2nd Prize - Rs.4000, 3rd Prize - Rs.3000",
+    "eventImage": "/event-img/Synsarahackfingold.png",
+    "eventType": "events",
+    "eventUrl": "https://forms.gle/sCa7A4bbMX5PBGif6",
+    "eventCloseDate": "26-09-2022",
+    "eventClosed": false
+},
+{
+    "eventTitle": "Technical Events",
+    "eventUrl": "Technical",
+    "eventImage": "/event-img/Synsaratechfingold.png",
+    "eventType": "main"
+},
+{
+    "eventTitle": "Non-Technical Events",
+    "eventUrl": "non-technical",
+    "eventImage": "/event-img/Synsaranonfingold.png",
+    "eventType": "main"
+},
+{
+    "eventTitle": "Hackathon",
+    "eventUrl": "CodeRed",
+    "eventImage":"/event-img/Synsarahackfingold.png",
+    "eventType": "main"
+}
+]

@@ -1,0 +1,64 @@
+#studentDetails {
+    margin: 15px 0;
+    padding: 5px 0px;
+    width: 40%;
+}
+
+#student-body {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    justify-content: space-evenly;
+    border: 2px solid rgba(165, 1, 1, 0.2);
+    border-radius: 5px;
+    width: 80%;
+    background-image: url("../../static/events/event-details.jpg");
+    opacity: 0.9;
+}
+
+#student-body:hover {
+    border: 5px solid rgba(208, 4, 4, 0.7);
+    transform: scale(1.1);
+}
+
+.content-display {
+    color: rgb(17, 16, 16);
+    font-size: 20px;
+    margin: 0 auto;
+    font-weight: bold;
+}
+
+.number {
+    color: #101011;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+.number:hover {
+    color: #0e0f0f;
+}
+
+@media screen and (max-width: 900px) {
+    #studentDetails {
+        width: 40%;
+        font-size: 16px;
+        flex-direction: column;
+    }
+    .content-display {
+        margin: 0 auto;
+    }
+    #student-body {
+        width: 100%;
+    }
+}
+
+@media screen and (max-width: 480px) {
+    #studentDetails {
+        width: 80%;
+        font-size: 14px;
+        flex-direction: column;
+    }
+    #student-body {
+        width: 100%;
+    }
+}

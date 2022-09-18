@@ -1,0 +1,160 @@
+{
+  "staff": [
+    {
+      "name": "Mrs. S. Hemavathi",
+      "contactNumber":"+91 80563 30346"
+    },
+    {
+      "name": "Mr. D. Sathishkumar",
+      "contactNumber":"+91 97105 81363"
+    },
+    {
+      "name": "Mrs. S. Meera",
+	  "contactNumber":"+91 98844 76116"
+    },
+    {
+      "name": "Mrs. R. Sharmikha Sree",
+      "contactNumber":"+91 98845 63851"
+    }
+  ],
+  "students": [
+    {
+      "name": "Mr. Saravanan K",
+      "contactNumber": "+91 97919 58494"
+    },
+    {
+      "name": "Mr. Vignesh P",
+      "contactNumber": "+91 90253 56918"
+    },
+    {
+      "name": "Ms. Shakthi Shree.M",
+      "contactNumber": "+91 93617 74632"
+    },
+    {
+      "name": "Ms. Srinidhi Jeganmohan",
+      "contactNumber": "+91 88259 24263"
+    }
+  ],
+  "eventCoordinators": [
+    {
+      "name": "Mr. Karthik Prasad T",
+      "event": "Codigo-{404}",
+      "contactNumber": "+91 97907 07598"
+    },
+    {
+      "name": "Mr. Arvind M",
+      "event": "Codigo-{404}",
+      "contactNumber": "+91 73585 65052"
+    },
+    {
+      "name": "Mr. Vikas K",
+      "event": "Hack Salvation",
+      "contactNumber": "+91 70100 33792"
+    },
+    {
+      "name": "Mr. Sakthinathan J",
+      "event": "Hack Salvation",
+      "contactNumber": "+91 99407 34663"
+    },
+    {
+      "name": "Mr. Pradeep T",
+      "event": "Hack Salvation",
+      "contactNumber": "+91 79042 22387"
+    },
+    {
+      "name": "Mr. Surendar S",
+      "event": "Hack Salvation",
+      "contactNumber": "+91 99627 27960"
+    },
+    {
+      "name": "Ms. Shibanika R",
+      "event": "Nerdz Corner",
+      "contactNumber": "+91 89394 92323"
+    },
+    {
+      "name": "Mr. Venkatesh D",
+      "event": "Nerdz Corner",
+      "contactNumber": "+91 95000 08776"
+    },
+    {
+      "name": "Mr. Suresh Krishnaa R",
+      "event": "Ready, Set, Database",
+      "contactNumber": "+91 90425 66811"
+    },
+    {
+      "name": "Mr. Harish K",
+      "event": "Ready, Set, Database",
+      "contactNumber": "+91 86106 32454"
+    },
+    {
+      "name": "Ms. Shakthi Shree.M",
+      "event": "Untitled.fig",
+      "contactNumber": "+91 93617 74632"
+    },
+    {
+      "name": "Mr. Kavi Varun Sathyamurthy",
+      "event": "Untitled.fig",
+      "contactNumber": "+91 87545 86646"
+    },
+    {
+      "name": "Mr. Eniyan T",
+      "event": "Untitled.fig",
+      "contactNumber": "+91 63851 20987"
+    },
+    {
+      "name": "Mr. Lokesh R",
+      "event": "Criction",
+      "contactNumber": "+91 98401 95485"
+    },
+    {
+      "name": "Mr. Saravanan K",
+      "event": "Criction",
+      "contactNumber": "+91 97919 58494"
+    },
+    {
+      "name": "Ms. Roshni.R",
+      "event": "Netflix Trifles",
+      "contactNumber": "+91 73959 40402"
+    },
+    {
+      "name": "Ms. Akshaya.K",
+      "event": "Netflix Trifles",
+      "contactNumber": "+91 86100 46668"
+    },
+    {
+      "name": "Mr. AV Bharat Sreyus",
+      "event": "Precise GunPlay",
+      "contactNumber": "+91 94980 47892"
+    },
+    {
+      "name": "Mr. Mukilan I K",
+      "event": "Precise GunPlay",
+      "contactNumber": "+91 72004 37907"
+    },
+    {
+      "name": "Ms. Srinidhi J",
+      "event": "Precise GunPlay",
+      "contactNumber": "+91 88259 24263"
+    },
+    {
+      "name": "Mr. Shankar S",
+      "event": "Precise GunPlay",
+      "contactNumber": "+91 91481 58989"
+    },
+    {
+      "name": "Mr. Vishnu Varman N",
+      "event": "Precise GunPlay",
+      "contactNumber": "+91 94437 63434"
+    },
+    {
+      "name": "Ms. Sanjana R",
+      "event": "Prepzap",
+      "contactNumber": "+91 73585 72336"
+    },
+    {
+      "name": "Ms. Shalini S",
+      "event": "Prepzap",
+      "contactNumber": "+91 90945 56389"
+    }
+  ]
+}
