@@ -9,32 +9,54 @@
     position: relative;
     width: 60%;
     padding: 15px;
-    background-color: #E5E6E4;
-    border-top-left-radius: 6px;
-    border-bottom-left-radius: 6px;
+    /* From https://css.glass */
+    background: rgba(14, 14, 14, 0.48);
+    border-radius: 16px;
+    backdrop-filter: blur(3.6px);
+    -webkit-backdrop-filter: blur(3.6px);
+    border: 1px solid rgba(14, 14, 14, 1);
+    border-radius: 16px;
+    box-shadow: 0 2px 15px red, 0 2px 15px red;
+    -webkit-backdrop-filter: blur(5px);
+    border-top-left-radius: 1px solid rgba(255, 255, 255, 0.3);
+    ;
+    border-bottom-left-radius: 1px solid rgba(255, 255, 255, 0.3);
+    ;
     background-size: 100% 100%;
     overflow: auto;
     display: flex;
     flex-direction: column;
     justify-content: space-between;
+
 }
 
 #event-image {
-    width: 40%;
+    width: 35%;
     overflow-y: auto;
     border-top-right-radius: 6px;
     border-bottom-right-radius: 6px;
 }
 
+.event-title-info{
+    color: #fff;
+}
+
+#event-tagline {
+    color: #fff;
+    font-weight: 700;
+    text-align: center;
+}
+
 #event-title {
     font-size: 36px;
     font-weight: 800;
-    color: #161925;
+    color: #ffff;
     margin: 0;
+    text-align: center;
 }
 
 #event-description {
-    color: #484848;
+    color: #ffff;
     font-size: 15px;
     line-height: 20px;
     margin-top: 5px;
@@ -51,15 +73,18 @@
 }
 
 #event-date {
-    font-size: 14px;
+    font-size: 15px;
     line-height: 16px;
     margin-bottom: 5px;
+    margin-top: 5px;
+
 }
 
 #event-queries {
     font-size: 14px;
     display: flex;
     align-items: center;
+    color: #fff;
 }
 
 #event-queries-list {
@@ -67,7 +92,13 @@
     flex-wrap: wrap;
     flex-direction: row;
     justify-content: space-evenly;
+    color: #fff;
 }
+
+#query {
+    color: #fff;
+}
+
 
 #button-holder {
     display: flex;
@@ -76,6 +107,23 @@
     padding: 2px;
 }
 
+#con-link {
+    text-decoration: none;
+    color: #fff;
+}
+
+#download {
+    width: 180px;
+    height: 45px;
+}
+
+
+#register {
+    width: 180px;
+    height: 45px;
+}
+
+
 .round-rules {
     margin-top: 7px;
 }
@@ -83,11 +131,11 @@
 .round-rules ul {
     font-size: 15px !important;
     line-height: 20px !important;
-    color: #484848;
+    color: #ffff;
 }
 
 .round-rules h5 {
-    color: #161925;
+    color: #ffff;
     font-size: 22px;
 }
 
@@ -125,8 +173,6 @@
 .back-arrow {
     margin-left: 5px;
 }
-
-
 /* responsive design for mobile,tablet devices */
 
 @media screen and (max-width: 768px) {
@@ -166,4 +212,34 @@
     #event-image {
         display: none;
     }
+
+    #button-holder {
+        display: block;
+
+    }
+
+    #download {
+        margin-left: 25%;
+    }
+    #register {
+        margin-left: 25%;
+    }
+}
+
+.event__btn {
+    width: 90%;
+    padding: 0.6rem;
+    font-weight: 700;
+    font-family: inherit;
+    font-size: 1.1rem;
+    background: #d50000;
+    color: white;
+    margin: 0 1rem 1rem 1rem;
+    border-radius: 0.2rem;
+    transition: background 200ms ease-in, color 200ms ease-in;
+    border-radius: 15px;
+}
+
+.event__btn:hover {
+    transform: scale(1.1);
 }

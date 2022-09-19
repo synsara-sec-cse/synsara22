@@ -12,16 +12,13 @@
 }
 
 .con-title {
-    background-clip: text;
     width: fit-content;
     font-weight: 900;
     font-size: 45px;
     line-height: 32px;
     border-bottom: 3px solid #E20813;
     animation: animate-border 0.3s ease-in;
-    background: linear-gradient( to right, #e81c1c, #ead72f);
-    -webkit-text-fill-color: transparent;
-    -webkit-background-clip: text;
+    color: #fff;
     margin-left: 40%;
     margin-bottom: 25px;
 }

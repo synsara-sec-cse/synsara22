@@ -5,6 +5,7 @@
 }
 
 #student-body {
+    margin-left: 50px;
     display: flex;
     flex-wrap: wrap;
     flex-direction: column;
@@ -12,7 +13,14 @@
     border: 2px solid rgba(165, 1, 1, 0.2);
     border-radius: 5px;
     width: 80%;
-    background-image: url("../../static/events/event-details.jpg");
+    box-shadow: 0 2px 15px red, 0 2px 15px red;
+    backdrop-filter: blur(5px);
+    -webkit-backdrop-filter: blur(5px);
+    border-top-left-radius: 1px solid rgba(255, 255, 255, 0.3);
+    ;
+    border-bottom-left-radius: 1px solid rgba(255, 255, 255, 0.3);
+    ;
+    background-size: 100% 100%;
     opacity: 0.9;
 }
 
@@ -22,14 +30,14 @@
 }
 
 .content-display {
-    color: rgb(17, 16, 16);
+    color: #fff;
     font-size: 20px;
     margin: 0 auto;
     font-weight: bold;
 }
 
 .number {
-    color: #101011;
+    color: #fff;
     font-weight: bold;
     text-decoration: none;
 }

@@ -25,9 +25,11 @@ function EventDetails({ eventDetail }) {
                             <h5 id="event-tagline">{eventDetail.eventTagline}</h5>
                             <p id="event-description" dangerouslySetInnerHTML={{ __html: eventDetail.eventDescription }}></p>
                             <div><b>Mode: <i>{eventDetail.mode}</i></b></div>
-                            <div><b>Venue</b>: {eventDetail.venue}</div>
-                            <div><b>Event Date</b>: {eventDetail.EventDate}</div>
-                            <div><b>Reporting Time</b>: {eventDetail.ReportingTime}</div>
+                            {eventDetail.venue ? (     
+                            <div id="event-description"><b>Venue</b>: {eventDetail.venue}</div>) : (<div></div>)}
+                            <div id="event-description"><b>Event Date</b>: {eventDetail.EventDate}</div>
+                            <div id="event-description"><b>Reporting Time</b>: {eventDetail.ReportingTime}</div>
+                            <div id="event-description"><b>Event Time</b>: {eventDetail.EventTime}</div>
                         </div>
                         {eventDetail.eventRounds.map((round, idx) => (
                             <div className="round-rules" key={idx}>
@@ -44,22 +46,23 @@ function EventDetails({ eventDetail }) {
                     </div>
 
                     <div className="event-bottom">
-                        <div>
-                            <b>winners</b>: {eventDetail.Winners}
+                        <div id="event-description">
+                            <b>Winners</b>: {eventDetail.Winners}
                         </div>
-                        <div>
-                            <b>prize</b>: {eventDetail.prize}
+                        <div id="event-description">
+                            <b>Prize</b>: {eventDetail.prize}
                         </div>
-                        <div id="event-date">
+                        <div id="event-description">
                             <b>Last date for registration: <i>{eventDetail.eventCloseDate}</i></b>
                         </div>
-                        <div style={{ marginRight: "4px", fontSize: "14px" }}>For Queries:</div>
+
+                        <div id="query" style={{ marginRight: "4px", fontSize: "14px" }}><b>For Queries:</b></div>
                         <div id="event-queries-list">
                             {eventDetail.coordinatorDetails.map((coordinator, index) => (
                                 <div id="event-queries" key={index}>
                                     <b>{coordinator.eventCoordinatorName}</b>
                                     <pre> </pre>
-                                    <a href={"tel:" + coordinator.eventCoordinatorNumber}>{coordinator.eventCoordinatorNumber}</a>
+                                    <a id="con-link" href={"tel:" + coordinator.eventCoordinatorNumber}>{coordinator.eventCoordinatorNumber}</a>
                                 </div>
                             ))}
                         </div>
@@ -70,10 +73,10 @@ function EventDetails({ eventDetail }) {
                                     <i>Registration closed</i>
                                 </b>
                             ) : (
-                                <a target="_blank" href={eventDetail.eventUrl} rel="noreferrer">
-                                    <Button primary>REGISTER</Button>
-                                </a>
+                             <a target="_blank" href={eventDetail.eventUrl}><button className="event__btn" id="register"><span>Register</span></button></a>
                             )}
+                            <Link to=""><button className="event__btn" id="download"><span>Download Brochure</span></button></Link>
+
                         </div>
                     </div>
                 </div>
