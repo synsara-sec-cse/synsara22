@@ -1,4 +1,4 @@
-import React, { useEffect } from "react";
+import React, { useEffect,useState } from "react";
 import {
   BrowserRouter as Router,
   Route,
@@ -22,19 +22,42 @@ import Pdf from "./pdf.js";
 import events from "./events.json";
 import TechnicalEvents from "./pages/Events/TechnicalEvents";
 import NonTechnicalEvents from "./pages/Events/NonTechnicalEvents";
+import homepage from"./pages/Home/homepagefinal.gif";
 
 function App() {
   useEffect(() => {
     Aos.init({});
   }, []);
-
+  const [loading, setLoading] = useState(false);
+  useEffect(() => {
+    setLoading(true);
+    setTimeout(() => {
+      setLoading(false);
+    }, 2950);
+  },[]);
   return (
     <>
+    
       <Router>
+      { loading?(
+      // <div className="loader-container">
+      //   <div className="spinner"></div>
+      <div class="flex justify-center items-center" >
+      {/* <img
+        src="homepage.gif"
+        class="max-w-sm h-auto shadow-lg"
+        alt=""
+      /> */}
+      {/* <img src={homepage} class="max-w-full h-full"/> */}
+      <div className="loader-container">
+        <img src={homepage} class="max-w-full h-full"/>
+      </div>
+      </div>
+):(
         <div className="body">
-          
+        
           <Switch>
-            
+          
             <Route path="/" exact component={Home}  />
             <Route path="/events" component={Events} />
             <Route path="/contact" component={Contact} />
@@ -48,9 +71,11 @@ function App() {
               </Route>
             ))}
             <Redirect path="*" to="/" />
+            
           </Switch>
+          
         </div>
-
+)};
         <Particles
          params={{
             "particles":{
@@ -82,7 +107,9 @@ function App() {
             position: "fixed",
           }}
          />
+        
       </Router>
+
     </>
   );
 }
