@@ -66,8 +66,8 @@
     "eventImage": "/event-img/buggy-01.png",
     "eventPoster":"/event-poster/KGF - SYNSARA.png",
     "eventType": "technical",
-    "eventUrl": "",
-    "eventCloseDate": "26-09-2021",
+    "eventUrl": "https://docs.google.com/forms/d/e/1FAIpQLSfdVxqXL7tyv49-K9iT0TF_-muDSNZeWZQjOyWzrixX0HVIYg/viewform?usp=sf_link",
+    "eventCloseDate": "26-09-2022",
     "eventClosed": false
 },
 
@@ -116,8 +116,8 @@
     "eventImage": "/event-img/uiux1-01.png",
     "eventPoster": "/event-poster/UNKNOWN.fig - SYNSARA.png",
     "eventType": "technical",
-    "eventUrl": "",
-    "eventCloseDate": "26-09-2021",
+    "eventUrl": "https://docs.google.com/forms/d/e/1FAIpQLSdgTB7Buc-6_00LqunvDqNu4n6hJoJxqhx4-Kgc7dAil0manQ/viewform?usp=sf_link",
+    "eventCloseDate": "26-09-2022",
     "eventClosed": false
 },
 
@@ -166,8 +166,8 @@
     "eventImage": "/event-img/interview2-01.png",
     "eventPoster":"/event-poster/PLAYSMENT - SYNSARA.png",
     "eventType": "technical",
-    "eventUrl": "",
-    "eventCloseDate": "26-09-2021",
+    "eventUrl": "https://docs.google.com/forms/d/e/1FAIpQLSfmGBj2Btsn2wZvJQpzZV9SYSD6Lm5Xo_26LDdVGJHg7N18yw/viewform?usp=sf_link",
+    "eventCloseDate": "26-09-2022",
     "eventClosed": false
 },
 
@@ -219,8 +219,8 @@
     "eventImage": "/event-img/suprisenew-02.png",
     "eventPoster": "/event-poster/THEGIDI - SYNSARA.png",
     "eventType": "technical",
-    "eventUrl": "https://forms.gle/6K8sBnJTsvw8rarm6",
-    "eventCloseDate": "26-09-2021",
+    "eventUrl": "https://docs.google.com/forms/d/e/1FAIpQLScjFa4cQ_ohqY75zC4wvcwLPklnBdxkQn5Y2Dtf6ouiXy6WoA/viewform?usp=sf_link",
+    "eventCloseDate": "26-09-2022",
     "eventClosed": false
 },
 
@@ -266,7 +266,7 @@
     "eventImage": "/event-img/cook.png",
     "eventPoster":"/event-poster/RATATOUILLE - SYNSARA.png",
     "eventType": "non-technical",
-    "eventUrl": "https://forms.gle/MJs1spdwrGD1BwiX6",
+    "eventUrl": "https://docs.google.com/forms/d/e/1FAIpQLSe6T1zY8oC17QYQTdgeWJp75AIRtjMI11BieBupzrreEV44uA/viewform?usp=sf_link",
     "eventCloseDate": "26-09-2022",
     "eventClosed": false
 },
@@ -330,7 +330,7 @@
     "eventImage": "/event-img/dance.png",
     "eventPoster":"/event-poster/LET'S NACHO - SYNSARA22.png",
     "eventType": "non-technical",
-    "eventUrl": "https://forms.gle/cdkqwpfVvXQNpZVr5",
+    "eventUrl": "https://docs.google.com/forms/d/e/1FAIpQLSe6T1zY8oC17QYQTdgeWJp75AIRtjMI11BieBupzrreEV44uA/viewform?usp=sf_link",
     "eventCloseDate": "26-09-2022",
     "eventClosed": false
 },
@@ -396,7 +396,7 @@
     "eventImage": "/event-img/adzap.png",
     "eventPoster":"/event-poster/THE LEGEND - SYNSARA.png",
     "eventType": "non-technical",
-    "eventUrl": "https://forms.gle/5bs2LtP2BS9WXvDg7",
+    "eventUrl": "https://docs.google.com/forms/d/e/1FAIpQLSdZasxMa4DXHE3RkI7yJQFWouJodGdMsE5wt9nOOa3qwbLtqg/viewform?usp=sf_link",
     "eventCloseDate": "26-09-2022",
     "eventClosed": false
 },
@@ -431,45 +431,6 @@
                 "If any player sits on another team's slot, that player will be removed from the room after some warning.",
                 "Each team (all four players) should send a screenshot of the results after the match or else they will be disqualified."
             ]
-        },
-        {
-            "roundName": "Valorant: Lobby Rules: ",
-            "roundRules": [
-                "Mode: Standard",
-                "Allow Cheats: Off",
-                "Tournament Mode: On",
-                "Overtime: Win by Two: On",
-                "Server Region: Mumbai",
-                "Team Size: Five(5)",
-                "All Matches will be played on the latest patch."
-
-            ]
-        }, {
-            "roundName": "Map Pool: ",
-            "roundRules": [
-                "Bind",
-                "Haven",
-                "Split",
-                "Ascent",
-                "Icebox",
-                "Breeze"
-            ]
-        },
-        {
-            "roundName": "Valorant: Instructions: ",
-            "roundRules": [
-                "This is an online event.",
-                "Each team must have a minimum of five(5) players that are eligible to play for each match.",
-                "No registration fee.",
-                "Only the team lead should register on behalf of the team.",
-                "All members of a roster must have their Riot account in good standing.",
-                "Map will be selected by the organising team.",
-                "Number of matches will be determined at the start of the tournament based on the number of registered players.",
-                "First team to 13 round wins will go to the next round.",
-                "Every round is an elimination round.",
-                "Any instance of cheating will result in an immediate removal from the tournament.",
-                "Cheating includes use of third party programs, hacking, ghosting, abusive chats / voice."
-            ]
         }
     ],
     "coordinatorDetails": [{
@@ -493,7 +454,7 @@
     "eventImage": "/event-img/gam.png",
     "eventPoster":"/event-poster/HEADSHOT (PUBG) -SYNSARA22.png",
     "eventType": "non-technical",
-    "eventUrl": "https://forms.gle/E9PHC3WW14PiPLbs9",
+    "eventUrl": "https://docs.google.com/forms/d/e/1FAIpQLSeFjEc6K0J_r-DN9r5YOB2SMYone7_jO-uCoTMayuNA9LmNUA/viewform?usp=sf_link",
     "eventCloseDate": "26-09-2022",
     "eventClosed": false
 },
@@ -509,25 +470,7 @@
 
     "eventDescription": " Action, fast reflexes and Tactical skills are essential to success. Are you ready for the challenge? Step onto the battlefield  with its great graphics, high-powered guns, and intense online multiplayer action. Fulfill your duty in the thrilling campaign as you shoot your way through one dire situation after another to save your team. ",
     "winners": "1",
-    "eventRounds": [{
-            "roundName": "Pubg: Instructions: ",
-            "roundRules": [
-                "This is an online event.",
-                "Each team should have a minimum of three players, or else they will be removed from the room.",
-                "Registration is restricted to the first 40 teams (First Come First Serve basis).",
-                "Potu thaku: Face-off between selected participants.",
-                "Only the team lead should register on behalf of the team.",
-                "An ID and password will be distributed via a WhatsApp group.",
-                "Teaming up with other teams will result in the disqualification of both the teams.",
-                "Players are responsible for their own technical issues.",
-                "Players are not allowed to use any third-party applications.",
-                "Only mobile phones are allowed. No emulators.",
-                "If two teams have the same points, then they are selected on the basis of more killings.",
-                "Never share the room code with non-registered players.",
-                "If any player sits on another team's slot, that player will be removed from the room after some warning.",
-                "Each team (all four players) should send a screenshot of the results after the match or else they will be disqualified."
-            ]
-        },
+    "eventRounds": [
         {
             "roundName": "Valorant: Lobby Rules: ",
             "roundRules": [
@@ -586,10 +529,10 @@
         }
     ],
     "prize": "1st Prize - Rs.1100",
-    "eventImage": "/event-img/gam.png",
+    "eventImage": "/event-img/valoweb.png",
     "eventPoster":"/event-poster/HEADSHOT(VALORANT) - SYNSARA22.png",
     "eventType": "non-technical",
-    "eventUrl": "https://forms.gle/E9PHC3WW14PiPLbs9",
+    "eventUrl": "https://docs.google.com/forms/d/e/1FAIpQLSc9DcShKSoN5ZFj8-s6HazUPPVEaOBlPAlu7fpJIUEw92Th8g/viewform?usp=sf_link",
     "eventCloseDate": "26-09-2022",
     "eventClosed": false
 },
@@ -655,7 +598,7 @@
     "eventImage": "/event-img/Synsarahackfingold.png",
     "eventType": "events",
     "eventPoster":"/event-poster/CODE RED - SYNSARA22.png",
-    "eventUrl": "https://forms.gle/sCa7A4bbMX5PBGif6",
+    "eventUrl": "https://docs.google.com/forms/d/e/1FAIpQLSf0TZY5ZYCoF9nnvc244lliYl1c6zR9C9bAPVIW0LQc17RjmQ/viewform?usp=sf_link",
     "eventCloseDate": "26-09-2022",
     "eventClosed": false
 },
