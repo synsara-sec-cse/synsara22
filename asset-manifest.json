@@ -1,19 +1,29 @@
 {
   "files": {
-    "main.css": "/static/css/main.bfe57625.css",
-    "main.js": "/static/js/main.7d3b5bf3.js",
+    "main.css": "/static/css/main.c162f270.css",
+    "main.js": "/static/js/main.ff1456a3.js",
     "static/media/homepage.gif": "/static/media/homepage.b8b76d875962afc6bf5e.gif",
     "static/media/homepagemob.gif": "/static/media/homepagemob.2567cb48fe8b749d054d.gif",
+    "static/media/CODE RED - SYNSARA.pdf": "/static/media/CODE RED - SYNSARA.4226add27886a33e0836.pdf",
+    "static/media/PLAYSMENT - SYNSARA.pdf": "/static/media/PLAYSMENT - SYNSARA.a7c15aedb3e0511b2764.pdf",
+    "static/media/KGF - SYNSARA.pdf": "/static/media/KGF - SYNSARA.6a83d2e67907f883a862.pdf",
+    "static/media/UNKNOWN.fig - SYNSARA.pdf": "/static/media/UNKNOWN.fig - SYNSARA.762a5e9160ec499c7920.pdf",
     "static/media/homepagefinal.gif": "/static/media/homepagefinal.75aca4e618f763d85286.gif",
-    "static/media/homepagemobfinal.gif": "/static/media/homepagemobfinal.b017af03c786ed2648b8.gif",
+    "static/media/HEADSHOT(VALORANT) - SYNSARA.pdf": "/static/media/HEADSHOT(VALORANT) - SYNSARA.c3d1763624d65b7b13be.pdf",
     "static/media/Bg.png": "/static/media/Bg.6903a4807b83e06148f3.png",
+    "static/media/THEGIDI - SYNSARA.pdf": "/static/media/THEGIDI - SYNSARA.e6030445172af90e8cdd.pdf",
+    "static/media/RATATOUILLE - SYNSARA.pdf": "/static/media/RATATOUILLE - SYNSARA.fc7be3fb7167d84c0bd6.pdf",
+    "static/media/HEADSHOT (PUBG) -SYNSARA.pdf": "/static/media/HEADSHOT (PUBG) -SYNSARA.ee32ef5b8ada9f5f8840.pdf",
+    "static/media/LET'S NACHO - SYNSARA.pdf": "/static/media/LET'S NACHO - SYNSARA.2df8a3286039e6360d4e.pdf",
     "static/media/SYNSARA WEBSITE TEXT1.png": "/static/media/SYNSARA WEBSITE TEXT1.f714ef5f7e5045cafb34.png",
+    "static/media/THE LEGEND - SYNSARA.pdf": "/static/media/THE LEGEND - SYNSARA.303d10bfbdd0cab10ca3.pdf",
     "static/media/bgweb.png": "/static/media/bgweb.f07d0a1ab49985b1eae0.png",
     "static/media/SAIRAM-BUS-ROUTE.pdf": "/static/media/SAIRAM-BUS-ROUTE.4d79bb89409c896fc1fb.pdf",
     "static/media/Audiowide-Regular.ttf": "/static/media/Audiowide-Regular.2017bdb174a62d0daa3e.ttf",
     "static/media/aboutinst.png": "/static/media/aboutinst.6a0ee7b58d591e75cbff.png",
     "static/media/synsara-logo.png": "/static/media/synsara-logo.ba8ea747b4f326a9a524.png",
     "static/media/hamburger.png": "/static/media/hamburger.b8536c688d1bf14b6e82.png",
+    "static/media/Open 24 Display St.ttf": "/static/media/Open 24 Display St.c4efb6934f5c144a19ed.ttf",
     "static/media/hamclose.png": "/static/media/hamclose.2bda69a3232eddbac6f3.png",
     "static/media/sairam-logo.png": "/static/media/sairam-logo.0498f15b9b0797753909.png",
     "static/media/Instagram.svg": "/static/media/Instagram.3c5a79b3d2a59654fc58e29013fff86b.svg",
@@ -21,11 +31,11 @@
     "static/media/LinkedIn.svg": "/static/media/LinkedIn.f2420ba57b6967a1b8c46f1e2a53046e.svg",
     "static/media/Facebook.svg": "/static/media/Facebook.66e000547bd607de6c861c6a0646410e.svg",
     "static/media/arrow-left.svg": "/static/media/arrow-left.4cf8417270fb5941ad677e399a980eef.svg",
-    "main.bfe57625.css.map": "/static/css/main.bfe57625.css.map",
-    "main.7d3b5bf3.js.map": "/static/js/main.7d3b5bf3.js.map"
+    "main.c162f270.css.map": "/static/css/main.c162f270.css.map",
+    "main.ff1456a3.js.map": "/static/js/main.ff1456a3.js.map"
   },
   "entrypoints": [
-    "static/css/main.bfe57625.css",
-    "static/js/main.7d3b5bf3.js"
+    "static/css/main.c162f270.css",
+    "static/js/main.ff1456a3.js"
   ]
 }
