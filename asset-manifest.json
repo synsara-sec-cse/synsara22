@@ -1,8 +1,9 @@
 {
   "files": {
-    "main.css": "/static/css/main.aeda75bb.css",
-    "main.js": "/static/js/main.dfda1e4d.js",
+    "main.css": "/static/css/main.8a05731a.css",
+    "main.js": "/static/js/main.5326bc9e.js",
     "static/media/homepage.gif": "/static/media/homepage.b8b76d875962afc6bf5e.gif",
+    "static/media/SYNSARA WEBSITE TEXT.png": "/static/media/SYNSARA WEBSITE TEXT.14a0e02d431111eac2b1.png",
     "static/media/homepagemob.gif": "/static/media/homepagemob.2567cb48fe8b749d054d.gif",
     "static/media/CODE RED - SYNSARA.pdf": "/static/media/CODE RED - SYNSARA.4226add27886a33e0836.pdf",
     "static/media/PLAYSMENT - SYNSARA.pdf": "/static/media/PLAYSMENT - SYNSARA.a7c15aedb3e0511b2764.pdf",
@@ -15,7 +16,6 @@
     "static/media/RATATOUILLE - SYNSARA.pdf": "/static/media/RATATOUILLE - SYNSARA.fc7be3fb7167d84c0bd6.pdf",
     "static/media/HEADSHOT (PUBG) -SYNSARA.pdf": "/static/media/HEADSHOT (PUBG) -SYNSARA.ee32ef5b8ada9f5f8840.pdf",
     "static/media/LET'S NACHO - SYNSARA.pdf": "/static/media/LET'S NACHO - SYNSARA.2df8a3286039e6360d4e.pdf",
-    "static/media/SYNSARA WEBSITE TEXT1.png": "/static/media/SYNSARA WEBSITE TEXT1.f714ef5f7e5045cafb34.png",
     "static/media/THE LEGEND - SYNSARA.pdf": "/static/media/THE LEGEND - SYNSARA.303d10bfbdd0cab10ca3.pdf",
     "static/media/bgweb.png": "/static/media/bgweb.f07d0a1ab49985b1eae0.png",
     "static/media/SAIRAM-BUS-ROUTE.pdf": "/static/media/SAIRAM-BUS-ROUTE.4d79bb89409c896fc1fb.pdf",
@@ -26,16 +26,16 @@
     "static/media/Open 24 Display St.ttf": "/static/media/Open 24 Display St.c4efb6934f5c144a19ed.ttf",
     "static/media/hamclose.png": "/static/media/hamclose.2bda69a3232eddbac6f3.png",
     "static/media/sairam-logo.png": "/static/media/sairam-logo.0498f15b9b0797753909.png",
-    "static/media/Instagram.svg": "/static/media/Instagram.3c5a79b3d2a59654fc58e29013fff86b.svg",
+    "static/media/Instagram.svg": "/static/media/Instagram.d1f9bde99aae88c4ee7fe11939d0422b.svg",
     "index.html": "/index.html",
-    "static/media/LinkedIn.svg": "/static/media/LinkedIn.f2420ba57b6967a1b8c46f1e2a53046e.svg",
-    "static/media/Facebook.svg": "/static/media/Facebook.66e000547bd607de6c861c6a0646410e.svg",
-    "static/media/arrow-left.svg": "/static/media/arrow-left.4cf8417270fb5941ad677e399a980eef.svg",
-    "main.aeda75bb.css.map": "/static/css/main.aeda75bb.css.map",
-    "main.dfda1e4d.js.map": "/static/js/main.dfda1e4d.js.map"
+    "static/media/LinkedIn.svg": "/static/media/LinkedIn.89a2423803059833803b11b233dad39e.svg",
+    "static/media/Facebook.svg": "/static/media/Facebook.2d39a1f574e99bf62691867b2e718244.svg",
+    "static/media/arrow-left.svg": "/static/media/arrow-left.b3a3fb8330d15a04bb4a6806423c8b8f.svg",
+    "main.8a05731a.css.map": "/static/css/main.8a05731a.css.map",
+    "main.5326bc9e.js.map": "/static/js/main.5326bc9e.js.map"
   },
   "entrypoints": [
-    "static/css/main.aeda75bb.css",
-    "static/js/main.dfda1e4d.js"
+    "static/css/main.8a05731a.css",
+    "static/js/main.5326bc9e.js"
   ]
 }
