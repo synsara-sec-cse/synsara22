@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.aeda75bb.css",
-    "main.js": "/static/js/main.513a1a06.js",
+    "main.js": "/static/js/main.34558a95.js",
     "static/media/homepage.gif": "/static/media/homepage.b8b76d875962afc6bf5e.gif",
     "static/media/homepagemob.gif": "/static/media/homepagemob.2567cb48fe8b749d054d.gif",
     "static/media/CODE RED - SYNSARA.pdf": "/static/media/CODE RED - SYNSARA.4226add27886a33e0836.pdf",
@@ -32,10 +32,10 @@
     "static/media/Facebook.svg": "/static/media/Facebook.66e000547bd607de6c861c6a0646410e.svg",
     "static/media/arrow-left.svg": "/static/media/arrow-left.4cf8417270fb5941ad677e399a980eef.svg",
     "main.aeda75bb.css.map": "/static/css/main.aeda75bb.css.map",
-    "main.513a1a06.js.map": "/static/js/main.513a1a06.js.map"
+    "main.34558a95.js.map": "/static/js/main.34558a95.js.map"
   },
   "entrypoints": [
     "static/css/main.aeda75bb.css",
-    "static/js/main.513a1a06.js"
+    "static/js/main.34558a95.js"
   ]
 }
