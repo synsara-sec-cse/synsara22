@@ -241,6 +241,9 @@
     #event-details {
         margin: 5px 10px 10px 10px;
     }
+    .cld1 {
+        display: none;
+    }
 }
 
 @media screen and (min-width: 768px) {
@@ -302,6 +305,12 @@
 .cld1{
     color: #ddc806;
     margin-top: 10px ;
+}
+
+.mob-cld{
+    color:#ddc806;
+    align-items: center;
+    margin-left: 33%;
 }
 
 

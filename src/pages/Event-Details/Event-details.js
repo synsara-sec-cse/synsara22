@@ -22,7 +22,7 @@ function EventDetails({ eventDetail }) {
             </div>
             <div className="mobile-reg-btn">
             {eventDetail.eventClosed ? (
-                                <b>
+                                <b className="mob-cld">
                                     <i>Registration closed</i>
                                 </b>
                             ) : (
