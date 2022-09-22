@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.8a05731a.css",
-    "main.js": "/static/js/main.5326bc9e.js",
+    "main.css": "/static/css/main.a7f1df4f.css",
+    "main.js": "/static/js/main.8525b02d.js",
     "static/media/homepage.gif": "/static/media/homepage.b8b76d875962afc6bf5e.gif",
     "static/media/SYNSARA WEBSITE TEXT.png": "/static/media/SYNSARA WEBSITE TEXT.14a0e02d431111eac2b1.png",
     "static/media/homepagemob.gif": "/static/media/homepagemob.2567cb48fe8b749d054d.gif",
@@ -26,16 +26,16 @@
     "static/media/Open 24 Display St.ttf": "/static/media/Open 24 Display St.c4efb6934f5c144a19ed.ttf",
     "static/media/hamclose.png": "/static/media/hamclose.2bda69a3232eddbac6f3.png",
     "static/media/sairam-logo.png": "/static/media/sairam-logo.0498f15b9b0797753909.png",
-    "static/media/Instagram.svg": "/static/media/Instagram.d1f9bde99aae88c4ee7fe11939d0422b.svg",
+    "static/media/Instagram.svg": "/static/media/Instagram.3c5a79b3d2a59654fc58e29013fff86b.svg",
     "index.html": "/index.html",
-    "static/media/LinkedIn.svg": "/static/media/LinkedIn.89a2423803059833803b11b233dad39e.svg",
-    "static/media/Facebook.svg": "/static/media/Facebook.2d39a1f574e99bf62691867b2e718244.svg",
-    "static/media/arrow-left.svg": "/static/media/arrow-left.b3a3fb8330d15a04bb4a6806423c8b8f.svg",
-    "main.8a05731a.css.map": "/static/css/main.8a05731a.css.map",
-    "main.5326bc9e.js.map": "/static/js/main.5326bc9e.js.map"
+    "static/media/LinkedIn.svg": "/static/media/LinkedIn.f2420ba57b6967a1b8c46f1e2a53046e.svg",
+    "static/media/Facebook.svg": "/static/media/Facebook.66e000547bd607de6c861c6a0646410e.svg",
+    "static/media/arrow-left.svg": "/static/media/arrow-left.4cf8417270fb5941ad677e399a980eef.svg",
+    "main.a7f1df4f.css.map": "/static/css/main.a7f1df4f.css.map",
+    "main.8525b02d.js.map": "/static/js/main.8525b02d.js.map"
   },
   "entrypoints": [
-    "static/css/main.8a05731a.css",
-    "static/js/main.5326bc9e.js"
+    "static/css/main.a7f1df4f.css",
+    "static/js/main.8525b02d.js"
   ]
 }
