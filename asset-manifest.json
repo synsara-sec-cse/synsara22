@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.a7f1df4f.css",
-    "main.js": "/static/js/main.8525b02d.js",
+    "main.css": "/static/css/main.3768e743.css",
+    "main.js": "/static/js/main.fdccf501.js",
     "static/media/homepage.gif": "/static/media/homepage.b8b76d875962afc6bf5e.gif",
     "static/media/SYNSARA WEBSITE TEXT.png": "/static/media/SYNSARA WEBSITE TEXT.14a0e02d431111eac2b1.png",
     "static/media/homepagemob.gif": "/static/media/homepagemob.2567cb48fe8b749d054d.gif",
@@ -31,11 +31,11 @@
     "static/media/LinkedIn.svg": "/static/media/LinkedIn.f2420ba57b6967a1b8c46f1e2a53046e.svg",
     "static/media/Facebook.svg": "/static/media/Facebook.66e000547bd607de6c861c6a0646410e.svg",
     "static/media/arrow-left.svg": "/static/media/arrow-left.4cf8417270fb5941ad677e399a980eef.svg",
-    "main.a7f1df4f.css.map": "/static/css/main.a7f1df4f.css.map",
-    "main.8525b02d.js.map": "/static/js/main.8525b02d.js.map"
+    "main.3768e743.css.map": "/static/css/main.3768e743.css.map",
+    "main.fdccf501.js.map": "/static/js/main.fdccf501.js.map"
   },
   "entrypoints": [
-    "static/css/main.a7f1df4f.css",
-    "static/js/main.8525b02d.js"
+    "static/css/main.3768e743.css",
+    "static/js/main.fdccf501.js"
   ]
 }
