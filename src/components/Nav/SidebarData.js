@@ -87,5 +87,10 @@ export const SidebarData = [
     title: 'Reach Us',
     path: '/pdf',
     icon: <FaIcons.FaRoute />
+  },
+  {
+    title: 'Instructions',
+    path: '/pdf',
+    icon: <FaIcons.FaRoute />
   }
 ];

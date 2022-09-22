@@ -6,6 +6,7 @@ import { Link } from "react-router-dom";
 import Button from "../../components/Button/Button";
 import { ReactComponent as LeftArrowSVG } from "../../static/arrow-left.svg";
 
+
 function EventDetails({ eventDetail }) {
     return (
         <div>
@@ -16,15 +17,36 @@ function EventDetails({ eventDetail }) {
                 <img src="https://img.icons8.com/external-kmg-design-glyph-kmg-design/32/e20813/external-back-arrow-kmg-design-glyph-kmg-design.png"/><span>Back</span>
                 </Link>
             </div>
-
+            <div className="mobile-img-con">
+                <img className="mobile-img" src={eventDetail.eventPosterMob}></img>
+            </div>
+            <div className="mobile-reg-btn">
+            {eventDetail.eventClosed ? (
+                                <b>
+                                    <i>Registration closed</i>
+                                </b>
+                            ) : (
+                             <a target="_blank" href={eventDetail.eventUrl}><button className="event__btn" id="register"><span>Register</span></button></a>
+                            )}
+            </div>
             <div id="event-details-component" data-aos="fade-up" data-aos-duration="300">
                 <div id="event-details">
+                    <div className="flt-btn">
+                    {eventDetail.eventClosed ? (
+                                <b className="cld1">
+                                    <i>Registration closed</i>
+                                </b>
+                            ) : (
+                             <a target="_blank" href={eventDetail.eventUrl}><button className="event__btn reg-btn" id="register"><span>Register</span></button></a>
+                            )}
+                    </div>
                     <div className="event-top">
                         <div id="event-title-info">
                             <h2 id="event-title">{eventDetail.eventTitle}</h2>
-                            <h5 id="event-tagline">{eventDetail.eventTagline}</h5>
+                            <h5 id="event-name">{eventDetail.eventName}</h5>
+                            <div id="event-tagline">{eventDetail.eventTagline}</div>
                             <p id="event-description" dangerouslySetInnerHTML={{ __html: eventDetail.eventDescription }}></p>
-                            <div><b>Mode: <i>{eventDetail.mode}</i></b></div>
+                            <div id="event-description"><b>Mode: <i style={{color: "#ddc806"}}>{eventDetail.mode}</i></b></div>
                             {eventDetail.venue ? (     
                             <div id="event-description"><b>Venue</b>: {eventDetail.venue}</div>) : (<div></div>)}
                             <div id="event-description"><b>Event Date</b>: {eventDetail.EventDate}</div>
@@ -53,10 +75,10 @@ function EventDetails({ eventDetail }) {
                             <b>Prize</b>: {eventDetail.prize}
                         </div>
                         <div id="event-description">
-                            <b>Last date for registration: <i>{eventDetail.eventCloseDate}</i></b>
+                            <b>Last date for registration: <i style={{color: "#ddc806"}}>{eventDetail.eventCloseDate}</i></b>
                         </div>
 
-                        <div id="query" style={{ marginRight: "4px", fontSize: "14px" }}><b>For Queries:</b></div>
+                        <div id="query" style={{ marginRight: "4px", fontSize: "14px" }}><b style={{color: "#ddc806"}}>For queries, contact:</b></div>
                         <div id="event-queries-list">
                             {eventDetail.coordinatorDetails.map((coordinator, index) => (
                                 <div id="event-queries" key={index}>
@@ -69,13 +91,13 @@ function EventDetails({ eventDetail }) {
 
                         <div id="button-holder">
                             {eventDetail.eventClosed ? (
-                                <b>
+                                <b className="cld1">
                                     <i>Registration closed</i>
                                 </b>
                             ) : (
-                             <a target="_blank" href={eventDetail.eventUrl}><button className="event__btn" id="register"><span>Register</span></button></a>
+                             <a target="_blank" href={eventDetail.eventUrl}><button className="event__btn reg-btn" id="register"><span>Register</span></button></a>
                             )}
-                            <Link to=""><button className="event__btn" id="download"><span>Download Brochure</span></button></Link>
+                            <Link to={`/${eventDetail.eventId}Brochure`}><button className="event__btn" id="download"><span>Download Brochure</span></button></Link>
 
                         </div>
                     </div>

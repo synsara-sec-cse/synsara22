@@ -16,7 +16,7 @@
     -webkit-backdrop-filter: blur(3.6px);
     border: 1px solid rgba(14, 14, 14, 1);
     border-radius: 16px;
-    box-shadow: 0 2px 15px red, 0 2px 15px red;
+    box-shadow: 0 -30px 30px -30px red,0px 30px 30px -30px red,-30px 0px 30px -30px red ;
     -webkit-backdrop-filter: blur(5px);
     border-top-left-radius: 1px solid rgba(255, 255, 255, 0.3);
     ;
@@ -43,8 +43,13 @@
 
 #event-tagline {
     color: #fff;
+    font-size: 17px;
+    font-weight: 600;
+}
+
+#event-name {
+    color: #fff;
     font-weight: 700;
-    text-align: center;
 }
 
 #event-title {
@@ -52,7 +57,6 @@
     font-weight: 800;
     color: #ffff;
     margin: 0;
-    text-align: center;
 }
 
 #event-description {
@@ -62,6 +66,10 @@
     margin-top: 5px;
     margin-bottom: 15px;
     font-weight: 400;
+}
+
+#con-link:hover {
+    color: #ddc806;
 }
 
 #event-date-queries {
@@ -105,6 +113,7 @@
     justify-content: center;
     margin-top: 5px;
     padding: 2px;
+    color: #fff;
 }
 
 #con-link {
@@ -173,9 +182,34 @@
 .back-arrow {
     margin-left: 5px;
 }
+
+.flt-btn{
+    position: absolute;
+    margin-left: 65%;
+}
 /* responsive design for mobile,tablet devices */
 
 @media screen and (max-width: 768px) {
+    #event-details-component {
+        height: calc(100vh - 150px);
+    }
+    #event-description {
+        font-size: 14px;
+        line-height: 16px;
+    }
+    #event-title {
+        font-size: 24px;
+        text-align: center;
+    }
+    #event-tagline {
+        text-align: center;
+    }
+    #event-name {
+        text-align: center;
+    }
+    #event-details-component {
+        font-size: 14px;
+    }
     #event-details-component {
         width: 100%;
     }
@@ -186,6 +220,7 @@
         width: 100%;
         padding: 10px;
         border-radius: 6px;
+        box-shadow: 0 2px 15px red, 0 2px 15px red;
     }
     #event-image {
         display: none;
@@ -193,10 +228,33 @@
     #event-description {
         width: 100%;
     }
+    .reg-btn{
+        display: none;
+    }
+    #register {
+        margin-left: 25%;
+    }
+    .mobile-img-con{
+        width: 100%;
+        margin-bottom: 10px;
+    }
+    #event-details {
+        margin: 5px 10px 10px 10px;
+    }
+}
+
+@media screen and (min-width: 768px) {
+    .mobile-img-con {
+        display: none;
+    }
+    .mobile-reg-btn {
+        display: none;
+    }
+    
 }
 
 @media screen and (max-width: 480px) {
-    #event-details-component {
+    /* #event-details-component {
         height: calc(100vh - 150px);
     }
     #event-description {
@@ -211,19 +269,12 @@
     }
     #event-image {
         display: none;
-    }
+    } */
 
-    #button-holder {
-        display: block;
+}
 
-    }
+@media screen and (min-width: 480px) {
 
-    #download {
-        margin-left: 25%;
-    }
-    #register {
-        margin-left: 25%;
-    }
 }
 
 .event__btn {
@@ -241,5 +292,16 @@
 }
 
 .event__btn:hover {
-    transform: scale(1.1);
+    background: #640000;
 }
+
+.reg-cld {
+    margin-top: 10px;
+}
+
+.cld1{
+    color: #ddc806;
+    margin-top: 10px ;
+}
+
+

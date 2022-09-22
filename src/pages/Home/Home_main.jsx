@@ -5,10 +5,12 @@ import SynsaraLogo from "../../static/synsara-logo.png";
 import SynsaraLogo1 from "../../static/SYNSARA WEBSITE TEXT.png";
 import TimeDisplay from "./TimeDisplay";
 import "./Home_main.css";
+import "./Home_main2.css";
 import Bg from "./Bg.png";
+import { Media } from "reactstrap";
 
 const Home_main = () => {
-  const countDownDate = new Date("28 September, 2022").getTime();
+  const countDownDate = new Date("28 September, 2022").getTime()+(3600*1000*10); 
 
   const animationVariants = {
     hidden: {
@@ -46,9 +48,9 @@ const Home_main = () => {
     <>
     <div >
       <div
-        className="text-white text-center p-2 p-md-0"
+        className="text-white text-center p-2 p-md-0 h-screen"
         style={{
-          margin: "10px auto 0px auto",
+          margin: "0px auto 0px auto",
           maxWidth: "430px",
           //display: "flex",
           justifyContent: "center",
@@ -85,8 +87,8 @@ const Home_main = () => {
             Proudly Presents
           </div>
           <br/>
-          <img
-            style={{ margin: "0rem 0px", maxWidth: "100%", height: "auto" }}
+          <img 
+            style={{ margin: "auto", maxWidth: "80%", height: "auto",}}
             src={SynsaraLogo1}
             alt="logo"
           />
@@ -114,32 +116,39 @@ const Home_main = () => {
             className="text-left" id="typed-out"
             style={{
               fontSize:
-                "calc(15.9px + (15 - 13) * ((100vw - 300px) / (1600 - 300)))",
+                "calc(25.5px + (15 - 13) * ((100vw - 300px) / (1600 - 300)))",
               textAlign: "justify",
               // 
           
             }}
           >
-            
-            A culmination of the nation's best young minds in a contest of
-            innovative thinking and exhilarating creations. Get ready to tough
-            it out against competition on <strong className="font-bold" style={{color:'#bc9558,', fontSize:'18'}}>28<sup>th</sup> September and 29
-            <sup>th</sup> September 2022.</strong>
-          </p>
+             </p> 
+          
+            <br/>
+            <div className="container">
+            <div className="row">
+            <strong style={{ marginTop:"-10px", fontSize: "15px", color: "red", textAlign:"center", fontFamily:  "Audiowide-Regular",}}>AVENGERS, ASSEMBLE!!</strong><br/>
+            <div className="col-13">
+            <strong className="boxStyle">28-09-2022{' '}-{' '}29-09-2022</strong>
+            </div> 
+            </div> 
+            </div>
+        
+          <br/>
 
           <div className="container">
             <div className="row">
-              <div className="col-12">
+              <div className="col-13">
                 <Link to="/events">
-                  <Button primary>REGISTER</Button>
+                  <br/>
+                  <Button primary><b>REGISTER</b></Button>
                 </Link>
               </div> 
             </div>
           </div>  
         </div>
         <img
-          // src={StarBg}
-          // alt="star"
+         
           style={{
             opacity: 0.4,
             position: "absolute",

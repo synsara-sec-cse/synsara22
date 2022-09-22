@@ -12,7 +12,7 @@ const Contact = () => {
       <Nav/>
       <div style={{ overflow: "hidden" }}>
         <div className="student-holder">
-          <div className="con-title" style={{ fontSize: "1.3em", fontWeight: "bolder",marginLeft:"42%",marginTop: "1em"}}>
+          <div className="con-title" style={{ fontSize: "1.3em", fontWeight: "bolder"}}>
           STAFF COORDINATORS
           </div>
           <div className="student-details">
@@ -31,7 +31,7 @@ const Contact = () => {
           </div>
         </div>
         <div className="student-holder">
-          <div className="con-title" style={{ fontSize: "1.3em",marginTop: "1em" }}>
+          <div className="con-title" style={{ fontSize: "1.3em"}}>
             STUDENT COORDINATORS
           </div>
           <div className="student-details">
@@ -49,7 +49,7 @@ const Contact = () => {
           </div>
         </div>
         <div className="event-coordinator-holder">
-          <div className="con-title" style={{ fontSize: "1.3em",marginTop: "1em" }}>
+          <div className="con-title" style={{ fontSize: "1.3em"}}>
             EVENT COORDINATORS
           </div>
           <div className="student-details">

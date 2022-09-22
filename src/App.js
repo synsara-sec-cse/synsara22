@@ -23,6 +23,7 @@ import events from "./events.json";
 import TechnicalEvents from "./pages/Events/TechnicalEvents";
 import NonTechnicalEvents from "./pages/Events/NonTechnicalEvents";
 import homepage from"./pages/Home/homepagefinal.gif";
+import Brochure from "./pages/Event-Details/Brochure";
 
 function App() {
   useEffect(() => {
@@ -70,6 +71,13 @@ function App() {
                 <EventDetails eventDetail={event} />
               </Route>
             ))}
+            {
+              events.map((event) => (
+                <Route path={`/${event.eventId}Brochure`}>
+                  <Brochure eventDetail={event} />
+                </Route>
+              ))
+            }
             <Redirect path="*" to="/" />
             
           </Switch>

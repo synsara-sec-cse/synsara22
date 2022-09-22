@@ -4,8 +4,11 @@
 }
 
 .btn-primary{
-      background: rgba(240, 45, 58, 0.7);
+      background: #D50000;
+      width: 200px;
       border: 1px solid #F02D3A;
+      height: 40px;
+      box-shadow: 0 1px 10px white,0 1px 10px white;
 }
 
 .btn-primary:hover{

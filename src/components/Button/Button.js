@@ -4,7 +4,7 @@ import "./Button.css";
 export default function Button({ children, primary }) {
     return (
         <div>
-            <div className={`btn ${primary ? "btn-dark" : "btn-secondary"}`}>{children}</div>
+            <div className={`btn ${primary ? "btn-primary" : "btn-secondary"}`}>{children}</div>
         </div>
     );
 }

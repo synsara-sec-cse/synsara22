@@ -21,13 +21,15 @@ export default function Events() {
     <div className="wrapper">
       {events.filter((event) => event.eventType === "main")
       .map((event) => (
-    <div className="card">
-      <div className="card__body">
-        <img src={event.eventImage} class="card__image" />
-        <h2 className="card__title">{event.eventTitle}</h2>
+        <Link to={`/${event.eventUrl}`}>
+      <div className="card">
+        <div className="card__body">
+          <img src={event.eventImage} class="card__image" />
+          <h2 className="card__title">{event.eventTitle}</h2>
+        </div>
+        <button className="card__btn"><span>View Events</span></button>
       </div>
-      <Link to={`/${event.eventUrl}`}><button className="card__btn"><span>View Events</span></button></Link>
-    </div>
+    </Link>
       ))}
     </div>
     <Footer/>

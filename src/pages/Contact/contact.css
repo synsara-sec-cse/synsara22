@@ -25,6 +25,7 @@
 
 .con-title:hover {
     transform: scale(1.2);
+    color: #fff;
 }
 
 .con-title::after {

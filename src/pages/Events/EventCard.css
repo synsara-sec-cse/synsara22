@@ -23,7 +23,7 @@
 
 .card_div:hover .card_image {
     transform: scale(1.15);
-    opacity: 0.25;
+    opacity: 0.25;  
 }
 
 
@@ -84,6 +84,14 @@
 @media only screen and (max-width: 979px) {
     .card_div {
         margin: 30px;
+    }
+
+    .card_content{
+        opacity: 1;
+    }
+
+    .card_image {
+        opacity: 0.25;
     }
     /* .card_title{
 		opacity: 1;

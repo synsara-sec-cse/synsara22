@@ -128,7 +128,7 @@ const SidebarNav = styled.nav`
   justify-content: center;
   position: fixed;
   top: 0;
-  left: ${({ sidebar }) => (sidebar ? '0' : '-100%')};
+  right: ${({ sidebar }) => (sidebar ? '0' : '-100%')};
   transition: 350ms;
   z-index: 10;
 `;
@@ -150,6 +150,7 @@ const Nav = () => {
             {/* <img src={Ham} onClick={showSidebar}/> */}
           </Navimg> 
           {/* <SidebarData></SidebarData> */}
+          
         </Navi>
         
         <SidebarNav sidebar={sidebar}>
