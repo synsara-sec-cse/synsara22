@@ -14,7 +14,7 @@ export default function Events() {
         <Nav/>
         <div className="back-arrow1">
                 <Link to="/home">
-                <img src="https://img.icons8.com/external-kmg-design-glyph-kmg-design/32/e20813/external-back-arrow-kmg-design-glyph-kmg-design.png"/><span>Back</span>
+                <img src="https://img.icons8.com/external-kmg-design-glyph-kmg-design/32/e20813/external-back-arrow-kmg-design-glyph-kmg-design.png" alt="back-arrow"/><span>Back</span>
                 </Link>
                 
         </div>
@@ -24,7 +24,7 @@ export default function Events() {
         <Link to={`/${event.eventUrl}`}>
       <div className="card">
         <div className="card__body">
-          <img src={event.eventImage} class="card__image" />
+          <img src={event.eventImage} class="card__image" alt="card-image"/>
           <h2 className="card__title">{event.eventTitle}</h2>
         </div>
         <button className="card__btn"><span>View Events</span></button>

@@ -14,11 +14,11 @@ function EventDetails({ eventDetail }) {
         <div style={{ overflow: "hidden" }}>
             <div className="back-arrow">
                 <Link to={`/${eventDetail.eventType}`}>
-                <img src="https://img.icons8.com/external-kmg-design-glyph-kmg-design/32/e20813/external-back-arrow-kmg-design-glyph-kmg-design.png"/><span>Back</span>
+                <img src="https://img.icons8.com/external-kmg-design-glyph-kmg-design/32/e20813/external-back-arrow-kmg-design-glyph-kmg-design.png" alt="back-arrow"/><span>Back</span>
                 </Link>
             </div>
             <div className="mobile-img-con">
-                <img className="mobile-img" src={eventDetail.eventPosterMob}></img>
+                <img className="mobile-img" src={eventDetail.eventPosterMob} alt="mobile-icon"></img>
             </div>
             <div className="mobile-reg-btn">
             {eventDetail.eventClosed ? (

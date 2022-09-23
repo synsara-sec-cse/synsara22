@@ -14,7 +14,7 @@ export default function TechnicalEvents() {
     <div className="Tech-events container">
       <div className="back-arrow1">
                 <Link to="/events">
-                <img src="https://img.icons8.com/external-kmg-design-glyph-kmg-design/32/e20813/external-back-arrow-kmg-design-glyph-kmg-design.png"/><span>Back</span>
+                <img src="https://img.icons8.com/external-kmg-design-glyph-kmg-design/32/e20813/external-back-arrow-kmg-design-glyph-kmg-design.png" alt='back-arrow'/><span>Back</span>
                 </Link>
                 
         </div>

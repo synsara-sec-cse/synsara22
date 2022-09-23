@@ -9,7 +9,7 @@ export default function Schedule() {
         <Nav/>
         <div className="back-arrow1">
                 <Link to="/home">
-                <img src="https://img.icons8.com/external-kmg-design-glyph-kmg-design/32/e20813/external-back-arrow-kmg-design-glyph-kmg-design.png"/><span>Back</span>
+                <img src="https://img.icons8.com/external-kmg-design-glyph-kmg-design/32/e20813/external-back-arrow-kmg-design-glyph-kmg-design.png" alt="back-arrow"/><span>Back</span>
                 </Link>
                 
         </div>

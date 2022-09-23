@@ -14,7 +14,7 @@ export default function NonTechnicalEvents() {
     <div className="Tech-events container">
         <div className="back-arrow1">
                 <Link to="/events">
-                <span><img src="https://img.icons8.com/external-kmg-design-glyph-kmg-design/32/e20813/external-back-arrow-kmg-design-glyph-kmg-design.png"/></span><span>Back</span>
+                <span><img src="https://img.icons8.com/external-kmg-design-glyph-kmg-design/32/e20813/external-back-arrow-kmg-design-glyph-kmg-design.png" alt="back-arrow"/></span><span>Back</span>
                 </Link>
         </div>
         <div className="tech-header">NON-TECHNICAL EVENTS</div>

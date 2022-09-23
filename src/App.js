@@ -52,8 +52,8 @@ function App() {
       /> */}
       {/* <img src={homepage} class="max-w-full h-full"/> */}
       <div className="loader-container">
-        {dev ? (<img src={homepageMob} class="max-2-full h-full"/>) :
-        (<img src={homepage} class="max-w-full h-full"/>)}
+        {dev ? (<img src={homepageMob} class="max-2-full h-full" alt="loader-mobile"/>) :
+        (<img src={homepage} class="max-w-full h-full" alt="loader-desktop"/>)}
       </div>
       </div>
 ):(

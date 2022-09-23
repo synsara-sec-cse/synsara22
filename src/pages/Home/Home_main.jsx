@@ -148,7 +148,6 @@ const Home_main = () => {
           </div>  
         </div>
         <img
-         
           style={{
             opacity: 0.4,
             position: "absolute",
@@ -156,6 +155,7 @@ const Home_main = () => {
             left: 0,
             zIndex: 1,
           }}
+          alt=""
         />
       </div>
       </div>
