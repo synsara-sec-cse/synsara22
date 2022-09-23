@@ -11,8 +11,6 @@ import "aos/dist/aos.css";
 import "./App.css";
 import "./pdf";
 import "bootstrap/dist/css/bootstrap.min.css";
-import Nav from "./components/Nav/Nav";
-import Footer from "./components/Footer/Footer";
 import Home from "./pages/Home/Home";
 import Events from "./pages/Events/Events";
 import Contact from "./pages/Contact/contact.jsx";
@@ -24,6 +22,8 @@ import TechnicalEvents from "./pages/Events/TechnicalEvents";
 import NonTechnicalEvents from "./pages/Events/NonTechnicalEvents";
 import homepage from"./pages/Home/homepagefinal.gif";
 import Brochure from "./pages/Event-Details/Brochure";
+import homepageMob from "./pages/Home/homepagemobfinal.gif";
+import useIsMobile from "./components/useIsMobile";
 
 function App() {
   useEffect(() => {
@@ -36,6 +36,7 @@ function App() {
       setLoading(false);
     }, 2950);
   },[]);
+  const dev=useIsMobile();
   return (
     <>
     
@@ -51,7 +52,8 @@ function App() {
       /> */}
       {/* <img src={homepage} class="max-w-full h-full"/> */}
       <div className="loader-container">
-        <img src={homepage} class="max-w-full h-full"/>
+        {dev ? (<img src={homepageMob} class="max-2-full h-full"/>) :
+        (<img src={homepage} class="max-w-full h-full"/>)}
       </div>
       </div>
 ):(

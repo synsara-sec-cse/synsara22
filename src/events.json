@@ -66,7 +66,7 @@
 
         "eventImage": "/event-img/buggy-01.png",
         "eventPoster": "/event-poster/KGF - SYNSARA.jpeg",
-        "eventPosterMob": "/event-poster/KGF - SYNSARA.png-mob.png",
+        "eventPosterMob": "/event-poster/KGF - SYNSARA - HOUSEFULL.jpeg",
         "eventType": "technical",
         "eventUrl": "https://docs.google.com/forms/d/e/1FAIpQLSfdVxqXL7tyv49-K9iT0TF_-muDSNZeWZQjOyWzrixX0HVIYg/viewform?usp=sf_link",
         "eventCloseDate": "26-09-2022",
@@ -223,7 +223,7 @@
 
         "eventImage": "/event-img/suprisenew-02.png",
         "eventPoster": "/event-poster/THEGIDI - SYNSARA.jpeg",
-        "eventPosterMob": "/event-poster/THEGIDI - SYNSARA.png-mob.png",
+        "eventPosterMob": "/event-poster/THEGIDI - SYNSARA - HOUSEFULL.jpeg",
         "eventType": "technical",
         "eventUrl": "https://docs.google.com/forms/d/e/1FAIpQLScjFa4cQ_ohqY75zC4wvcwLPklnBdxkQn5Y2Dtf6ouiXy6WoA/viewform?usp=sf_link",
         "eventCloseDate": "26-09-2022",
@@ -458,7 +458,7 @@
         ],
         "eventImage": "/event-img/gam.png",
         "eventPoster": "/event-poster/HEADSHOT (PUBG) -SYNSARA.png",
-        "eventPosterMob": "/event-poster/THE LEGEND - SYNSARA.png-mob.png",
+        "eventPosterMob": "/event-poster/HEADSHOT (PUBG) -SYNSARA.png-mob.png",
         "eventType": "non-technical",
         "eventUrl": "https://docs.google.com/forms/d/e/1FAIpQLSeFjEc6K0J_r-DN9r5YOB2SMYone7_jO-uCoTMayuNA9LmNUA/viewform?usp=sf_link",
         "eventCloseDate": "26-09-2022",
@@ -579,12 +579,12 @@
         ],
         "prize": "1st Prize - Rs. 5000, 2nd Prize - Rs.4000, 3rd Prize - Rs.3000",
         "eventImage": "/event-img/Synsarahackfingold.png",
-        "eventImageMob": "/event-img/Synsarahackfingold.png-mob.png",
         "eventType": "events",
-        "eventPoster": "/event-poster/CODE RED - SYNSARA.png",
+        "eventPoster": "/event-poster/CODE RED - SYNSARA - HOUSEFULL.jpeg",
+        "eventPosterMob": "event-poster/CODE RED - SYNSARA - HOUSEFULL - MOB.jpeg",
         "eventUrl": "https://docs.google.com/forms/d/e/1FAIpQLSf0TZY5ZYCoF9nnvc244lliYl1c6zR9C9bAPVIW0LQc17RjmQ/viewform?usp=sf_link",
         "eventCloseDate": "26-09-2022",
-        "eventClosed": false
+        "eventClosed": true
     },
     {
         "eventTitle": "Technical Events",

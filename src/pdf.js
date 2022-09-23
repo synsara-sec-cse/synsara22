@@ -18,7 +18,7 @@ export default function Instructions() {
             <div className="table_container">
                 <table className="schedule_table"><>
                 <p className='lg:w-full text-white pl-4 pr-8 lg:pr-12 lg:pl-8  text-justify text-xs sm:text-sm md:text-sm lg:text-[20px] sm:p-8 sm:leading-10'>
-                We have buses operating from Tambaram. <br></br><br></br>Participants can use these buses to reach our college. The timings will be updated shortly.
+                We have buses operating from Tambaram.<br></br><br></br>Participants can use these buses to reach our college. The timings will be updated shortly.
                 </p></></table>
             </div>
         </div>

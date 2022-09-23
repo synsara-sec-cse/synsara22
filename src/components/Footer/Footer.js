@@ -30,7 +30,7 @@ export default function Footer() {
           <img src={FaceBookSVG} alt="facebook social" />
         </div>
         </a>
-        <a referrerPolicy="no-referrer" target="_blank" href="https://www.instagram.com/sairamcsechennai/">
+        <a referrerPolicy="no-referrer" target="_blank" href="https://www.instagram.com/synsara_2022/">
         <div className="footer_social_icon">
           <img src={InstagramSVG} alt="instagram social" />
         </div>
