@@ -1,9 +1,8 @@
 {
   "files": {
-    "main.css": "/static/css/main.6ac742d7.css",
-    "main.js": "/static/js/main.7a27f565.js",
+    "main.css": "/static/css/main.4a34b4e2.css",
+    "main.js": "/static/js/main.5288e596.js",
     "static/media/homepage.gif": "/static/media/homepage.b8b76d875962afc6bf5e.gif",
-    "static/media/SYNSARA WEBSITE TEXT.png": "/static/media/SYNSARA WEBSITE TEXT.14a0e02d431111eac2b1.png",
     "static/media/homepagemob.gif": "/static/media/homepagemob.2567cb48fe8b749d054d.gif",
     "static/media/CODE RED - SYNSARA.pdf": "/static/media/CODE RED - SYNSARA.4226add27886a33e0836.pdf",
     "static/media/PLAYSMENT - SYNSARA.pdf": "/static/media/PLAYSMENT - SYNSARA.a7c15aedb3e0511b2764.pdf",
@@ -11,6 +10,7 @@
     "static/media/UNKNOWN.fig - SYNSARA.pdf": "/static/media/UNKNOWN.fig - SYNSARA.762a5e9160ec499c7920.pdf",
     "static/media/homepagefinal.gif": "/static/media/homepagefinal.75aca4e618f763d85286.gif",
     "static/media/homepagemobfinal.gif": "/static/media/homepagemobfinal.b017af03c786ed2648b8.gif",
+    "static/media/SYNSARA WEBSITE TEXT-min.png": "/static/media/SYNSARA WEBSITE TEXT-min.537e8bc3b72c27293bb6.png",
     "static/media/HEADSHOT(VALORANT) - SYNSARA.pdf": "/static/media/HEADSHOT(VALORANT) - SYNSARA.c3d1763624d65b7b13be.pdf",
     "static/media/Bg.png": "/static/media/Bg.6903a4807b83e06148f3.png",
     "static/media/THEGIDI - SYNSARA.pdf": "/static/media/THEGIDI - SYNSARA.e6030445172af90e8cdd.pdf",
@@ -22,7 +22,6 @@
     "static/media/SAIRAM-BUS-ROUTE.pdf": "/static/media/SAIRAM-BUS-ROUTE.4d79bb89409c896fc1fb.pdf",
     "static/media/Audiowide-Regular.ttf": "/static/media/Audiowide-Regular.2017bdb174a62d0daa3e.ttf",
     "static/media/aboutinst.png": "/static/media/aboutinst.6a0ee7b58d591e75cbff.png",
-    "static/media/synsara-logo.png": "/static/media/synsara-logo.ba8ea747b4f326a9a524.png",
     "static/media/hamburger.png": "/static/media/hamburger.b8536c688d1bf14b6e82.png",
     "static/media/Open 24 Display St.ttf": "/static/media/Open 24 Display St.c4efb6934f5c144a19ed.ttf",
     "static/media/hamclose.png": "/static/media/hamclose.2bda69a3232eddbac6f3.png",
@@ -32,11 +31,11 @@
     "static/media/LinkedIn.svg": "/static/media/LinkedIn.f2420ba57b6967a1b8c46f1e2a53046e.svg",
     "static/media/Facebook.svg": "/static/media/Facebook.66e000547bd607de6c861c6a0646410e.svg",
     "static/media/arrow-left.svg": "/static/media/arrow-left.4cf8417270fb5941ad677e399a980eef.svg",
-    "main.6ac742d7.css.map": "/static/css/main.6ac742d7.css.map",
-    "main.7a27f565.js.map": "/static/js/main.7a27f565.js.map"
+    "main.4a34b4e2.css.map": "/static/css/main.4a34b4e2.css.map",
+    "main.5288e596.js.map": "/static/js/main.5288e596.js.map"
   },
   "entrypoints": [
-    "static/css/main.6ac742d7.css",
-    "static/js/main.7a27f565.js"
+    "static/css/main.4a34b4e2.css",
+    "static/js/main.5288e596.js"
   ]
 }
